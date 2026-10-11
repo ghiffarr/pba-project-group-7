@@ -8,4 +8,4 @@ Team members:
 1. Kelvin Claudio 112006266
 2. Kenzion Ciang 112006228
 3. Jevann Alden Lioe 112006438
-4.
+4. Ryosei Inagaki 112006263
