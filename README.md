@@ -10,6 +10,10 @@ Team members:
 3. Jevann Alden Lioe 112006438
 4. Ryosei Inagaki 112006263
 
+## Milestone 2
+
+[Proposal](Group7_Milestone2.pdf) · [Player-season dataset](data/player_seasons.csv) · [Codebook](codebook.md) · [Data preparation script](01_build_data.R)
+
 ## Milestone 3
 
 [Report](milestone3/output/Group7_Milestone3.pdf) · [Data and reproduction instructions](milestone3/README.md) · [Codebook](milestone3/data/codebook.md)
