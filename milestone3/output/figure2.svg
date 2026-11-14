@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="495" height="250" preserveAspectRatio="xMinYMin meet" viewBox="0 0 495 250" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="495" height="250"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-250)" style="clip-path: url(#clip)">
+		<g transform="">
+			<path d="M 100,40 L 100,222 Z" style="stroke: rgb(88%,90%,92%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="97.498" y="25" style="font-family: Helvetica; font-size: 9px;fill: rgb(9%,20%,29%); stroke:none;" transform="translate(0,50) scale(1,-1)">0</text>
+			<path d="M 187.5,40 L 187.5,222 Z" style="stroke: rgb(88%,90%,92%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="184.998" y="25" style="font-family: Helvetica; font-size: 9px;fill: rgb(9%,20%,29%); stroke:none;" transform="translate(0,50) scale(1,-1)">5</text>
+			<path d="M 275,40 L 275,222 Z" style="stroke: rgb(88%,90%,92%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="269.996" y="25" style="font-family: Helvetica; font-size: 9px;fill: rgb(9%,20%,29%); stroke:none;" transform="translate(0,50) scale(1,-1)">10</text>
+			<path d="M 362.5,40 L 362.5,222 Z" style="stroke: rgb(88%,90%,92%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="357.496" y="25" style="font-family: Helvetica; font-size: 9px;fill: rgb(9%,20%,29%); stroke:none;" transform="translate(0,50) scale(1,-1)">15</text>
+			<path d="M 450,40 L 450,222 Z" style="stroke: rgb(88%,90%,92%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="444.996" y="25" style="font-family: Helvetica; font-size: 9px;fill: rgb(9%,20%,29%); stroke:none;" transform="translate(0,50) scale(1,-1)">20</text>
+			<text x="0" y="199" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,20%,29%); stroke:none;" transform="translate(0,398) scale(1,-1)">Attack</text>
+			<rect x="100" y="204" width="315.0" height="11" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(3%,49%,54%); fill-rule: evenodd;"/>
+			<text x="420.0" y="206" style="font-family: Helvetica; font-size: 9px;fill: rgb(9%,20%,29%); stroke:none;" transform="translate(0,412) scale(1,-1)">18</text>
+			<rect x="100" y="189" width="122.5" height="11" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(50%,58%,64%); fill-rule: evenodd;"/>
+			<text x="227.5" y="191" style="font-family: Helvetica; font-size: 9px;fill: rgb(9%,20%,29%); stroke:none;" transform="translate(0,382) scale(1,-1)">7</text>
+			<text x="0" y="156" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,20%,29%); stroke:none;" transform="translate(0,312) scale(1,-1)">Midfield</text>
+			<rect x="100" y="161" width="280.0" height="11" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(3%,49%,54%); fill-rule: evenodd;"/>
+			<text x="385.0" y="163" style="font-family: Helvetica; font-size: 9px;fill: rgb(9%,20%,29%); stroke:none;" transform="translate(0,326) scale(1,-1)">16</text>
+			<rect x="100" y="146" width="105.0" height="11" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(50%,58%,64%); fill-rule: evenodd;"/>
+			<text x="210.0" y="148" style="font-family: Helvetica; font-size: 9px;fill: rgb(9%,20%,29%); stroke:none;" transform="translate(0,296) scale(1,-1)">6</text>
+			<text x="0" y="113" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,20%,29%); stroke:none;" transform="translate(0,226) scale(1,-1)">Defender</text>
+			<rect x="100" y="118" width="210.0" height="11" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(3%,49%,54%); fill-rule: evenodd;"/>
+			<text x="315.0" y="120" style="font-family: Helvetica; font-size: 9px;fill: rgb(9%,20%,29%); stroke:none;" transform="translate(0,240) scale(1,-1)">12</text>
+			<rect x="100" y="103" width="78.75" height="11" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(50%,58%,64%); fill-rule: evenodd;"/>
+			<text x="183.75" y="105" style="font-family: Helvetica; font-size: 9px;fill: rgb(9%,20%,29%); stroke:none;" transform="translate(0,210) scale(1,-1)">4.5</text>
+			<text x="0" y="70" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,20%,29%); stroke:none;" transform="translate(0,140) scale(1,-1)">Goalkeeper</text>
+			<rect x="100" y="75" width="175.0" height="11" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(3%,49%,54%); fill-rule: evenodd;"/>
+			<text x="280.0" y="77" style="font-family: Helvetica; font-size: 9px;fill: rgb(9%,20%,29%); stroke:none;" transform="translate(0,154) scale(1,-1)">10</text>
+			<rect x="100" y="60" width="78.75" height="11" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(50%,58%,64%); fill-rule: evenodd;"/>
+			<text x="183.75" y="62" style="font-family: Helvetica; font-size: 9px;fill: rgb(9%,20%,29%); stroke:none;" transform="translate(0,124) scale(1,-1)">4.5</text>
+			<text x="203.2385" y="5" style="font-family: Helvetica; font-size: 9px;fill: rgb(9%,20%,29%); stroke:none;" transform="translate(0,10) scale(1,-1)">Median market value (EUR millions)</text>
+			<rect x="105" y="237" width="9" height="9" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(3%,49%,54%); fill-rule: evenodd;"/>
+			<text x="120" y="238" style="font-family: Helvetica; font-size: 9px;fill: rgb(9%,20%,29%); stroke:none;" transform="translate(0,476) scale(1,-1)">Premier League</text>
+			<rect x="245" y="237" width="9" height="9" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(50%,58%,64%); fill-rule: evenodd;"/>
+			<text x="260" y="238" style="font-family: Helvetica; font-size: 9px;fill: rgb(9%,20%,29%); stroke:none;" transform="translate(0,476) scale(1,-1)">Other four leagues pooled</text>
+		</g>
+	</g>
+</svg>

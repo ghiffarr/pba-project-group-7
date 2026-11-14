@@ -1,0 +1,9 @@
+position,premier_league,median,size
+Attack,0,7000000.0,3007
+Attack,1,18000000.0,826
+Defender,0,4500000.0,4861
+Defender,1,12000000.0,1224
+Goalkeeper,0,4500000.0,943
+Goalkeeper,1,10000000.0,248
+Midfield,0,6000000.0,3871
+Midfield,1,16000000.0,965

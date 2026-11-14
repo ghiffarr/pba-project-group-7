@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="495" height="240" preserveAspectRatio="xMinYMin meet" viewBox="0 0 495 240" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="495" height="240"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-240)" style="clip-path: url(#clip)">
+		<g transform="">
+			<path d="M 140,38 L 140,220 Z" style="stroke: rgb(88%,90%,92%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="137.498" y="23" style="font-family: Helvetica; font-size: 9px;fill: rgb(9%,20%,29%); stroke:none;" transform="translate(0,46) scale(1,-1)">1</text>
+			<path d="M 192.680249,38 L 192.680249,220 Z" style="stroke: rgb(88%,90%,92%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="190.1782492411967" y="23" style="font-family: Helvetica; font-size: 9px;fill: rgb(9%,20%,29%); stroke:none;" transform="translate(0,46) scale(1,-1)">2</text>
+			<path d="M 262.319751,38 L 262.319751,220 Z" style="stroke: rgb(88%,90%,92%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="259.8177507588033" y="23" style="font-family: Helvetica; font-size: 9px;fill: rgb(9%,20%,29%); stroke:none;" transform="translate(0,46) scale(1,-1)">5</text>
+			<path d="M 315,38 L 315,220 Z" style="stroke: rgb(88%,90%,92%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="309.996" y="23" style="font-family: Helvetica; font-size: 9px;fill: rgb(9%,20%,29%); stroke:none;" transform="translate(0,46) scale(1,-1)">10</text>
+			<path d="M 367.680249,38 L 367.680249,220 Z" style="stroke: rgb(88%,90%,92%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="362.67624924119673" y="23" style="font-family: Helvetica; font-size: 9px;fill: rgb(9%,20%,29%); stroke:none;" transform="translate(0,46) scale(1,-1)">20</text>
+			<path d="M 437.319751,38 L 437.319751,220 Z" style="stroke: rgb(88%,90%,92%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="432.31575075880323" y="23" style="font-family: Helvetica; font-size: 9px;fill: rgb(9%,20%,29%); stroke:none;" transform="translate(0,46) scale(1,-1)">50</text>
+			<path d="M 490,38 L 490,220 Z" style="stroke: rgb(88%,90%,92%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="482.494" y="23" style="font-family: Helvetica; font-size: 9px;fill: rgb(9%,20%,29%); stroke:none;" transform="translate(0,46) scale(1,-1)">100</text>
+			<text x="0" y="203" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,20%,29%); stroke:none;" transform="translate(0,406) scale(1,-1)">Premier League</text>
+			<text x="0" y="190" style="font-family: Helvetica; font-size: 8px;fill: rgb(33%,40%,46%); stroke:none;" transform="translate(0,380) scale(1,-1)">n = 3,263</text>
+			<path d="M 223.49622,200 L 437.319751,200 Z" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<path d="M 223.49622,195 L 223.49622,205 Z" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 437.319751,195 L 437.319751,205 Z" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1;"/>
+			<rect x="287.89215700249497" y="191" width="105.36049848239338" height="18" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(3%,49%,54%); fill-rule: evenodd;"/>
+			<path d="M 345.81597,191 L 345.81597,209 Z" style="stroke: rgb(100%,100%,100%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="475.495" y="197" style="font-family: Helvetica; font-size: 9px;fill: rgb(9%,20%,29%); stroke:none;" transform="translate(0,394) scale(1,-1)">15m</text>
+			<text x="0" y="168" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,20%,29%); stroke:none;" transform="translate(0,336) scale(1,-1)">Bundesliga</text>
+			<text x="0" y="155" style="font-family: Helvetica; font-size: 8px;fill: rgb(33%,40%,46%); stroke:none;" transform="translate(0,310) scale(1,-1)">n = 2,819</text>
+			<path d="M 170.81597,165 L 398.49622,165 Z" style="stroke: rgb(50%,58%,64%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<path d="M 170.81597,160 L 170.81597,170 Z" style="stroke: rgb(50%,58%,64%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 398.49622,160 L 398.49622,170 Z" style="stroke: rgb(50%,58%,64%); stroke-linecap: butt; stroke-width: 1;"/>
+			<rect x="223.49621957594093" y="156" width="122.31975075880331" height="18" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(50%,58%,64%); fill-rule: evenodd;"/>
+			<path d="M 282.259837,156 L 282.259837,174 Z" style="stroke: rgb(100%,100%,100%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="472.993" y="162" style="font-family: Helvetica; font-size: 9px;fill: rgb(9%,20%,29%); stroke:none;" transform="translate(0,324) scale(1,-1)">6.5m</text>
+			<text x="0" y="133" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,20%,29%); stroke:none;" transform="translate(0,266) scale(1,-1)">Serie A</text>
+			<text x="0" y="120" style="font-family: Helvetica; font-size: 8px;fill: rgb(33%,40%,46%); stroke:none;" transform="translate(0,240) scale(1,-1)">n = 3,334</text>
+			<path d="M 140,130 L 393.252655,130 Z" style="stroke: rgb(50%,58%,64%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<path d="M 140,125 L 140,135 Z" style="stroke: rgb(50%,58%,64%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 393.252655,125 L 393.252655,135 Z" style="stroke: rgb(50%,58%,64%); stroke-linecap: butt; stroke-width: 1;"/>
+			<rect x="209.63950151760656" y="121" width="136.17646881713767" height="18" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(50%,58%,64%); fill-rule: evenodd;"/>
+			<path d="M 276.176469,121 L 276.176469,139 Z" style="stroke: rgb(100%,100%,100%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="480.499" y="127" style="font-family: Helvetica; font-size: 9px;fill: rgb(9%,20%,29%); stroke:none;" transform="translate(0,254) scale(1,-1)">6m</text>
+			<text x="0" y="98" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,20%,29%); stroke:none;" transform="translate(0,196) scale(1,-1)">La Liga</text>
+			<text x="0" y="85" style="font-family: Helvetica; font-size: 8px;fill: rgb(33%,40%,46%); stroke:none;" transform="translate(0,170) scale(1,-1)">n = 3,376</text>
+			<path d="M 170.81597,95 L 398.49622,95 Z" style="stroke: rgb(50%,58%,64%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<path d="M 170.81597,90 L 170.81597,100 Z" style="stroke: rgb(50%,58%,64%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 398.49622,90 L 398.49622,100 Z" style="stroke: rgb(50%,58%,64%); stroke-linecap: butt; stroke-width: 1;"/>
+			<rect x="209.63950151760656" y="86" width="136.17646881713767" height="18" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(50%,58%,64%); fill-rule: evenodd;"/>
+			<path d="M 262.319751,86 L 262.319751,104 Z" style="stroke: rgb(100%,100%,100%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="480.499" y="92" style="font-family: Helvetica; font-size: 9px;fill: rgb(9%,20%,29%); stroke:none;" transform="translate(0,184) scale(1,-1)">5m</text>
+			<text x="0" y="63" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,20%,29%); stroke:none;" transform="translate(0,126) scale(1,-1)">Ligue 1</text>
+			<text x="0" y="50" style="font-family: Helvetica; font-size: 8px;fill: rgb(33%,40%,46%); stroke:none;" transform="translate(0,100) scale(1,-1)">n = 3,153</text>
+			<path d="M 140,60 L 367.680249,60 Z" style="stroke: rgb(50%,58%,64%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<path d="M 140,55 L 140,65 Z" style="stroke: rgb(50%,58%,64%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 367.680249,55 L 367.680249,65 Z" style="stroke: rgb(50%,58%,64%); stroke-linecap: butt; stroke-width: 1;"/>
+			<rect x="192.68024924119672" y="51" width="122.31975075880328" height="18" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(50%,58%,64%); fill-rule: evenodd;"/>
+			<path d="M 254.31219,51 L 254.31219,69 Z" style="stroke: rgb(100%,100%,100%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="472.993" y="57" style="font-family: Helvetica; font-size: 9px;fill: rgb(9%,20%,29%); stroke:none;" transform="translate(0,114) scale(1,-1)">4.5m</text>
+			<text x="223.738" y="3" style="font-family: Helvetica; font-size: 9px;fill: rgb(9%,20%,29%); stroke:none;" transform="translate(0,6) scale(1,-1)">Market value (EUR millions; logarithmic axis)</text>
+		</g>
+	</g>
+</svg>
